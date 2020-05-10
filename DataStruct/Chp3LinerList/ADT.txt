@@ -1,0 +1,11 @@
+ADT
+Data
+Operation:
+    InitList(*L);
+    ListEmpty(L);
+    ClearList(*L);
+    GetElem(L, i, *e);
+    LocateElem(L, e);
+    ListInsert(*L, i, e);
+    ListDelete(*L, i, *e);
+    ListLength(L);
